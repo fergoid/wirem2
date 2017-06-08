@@ -1,0 +1,28 @@
+{
+  "id" : "f1fbd5f1-37ec-3082-8bfc-018a27d8a36e",
+  "request" : {
+    "url" : "/data/2.5/weather?q=London,uk&APPID=79c1dc77cee80c8688295e8e2f18ce4e",
+    "method" : "GET"
+  },
+  "response" : {
+            // "fault": "EMPTY_RESPONSE",
+
+    "delayDistribution": {
+                    "type": "lognormal",
+                    "median": 1000,
+                    "sigma": 0.4
+            },
+    "bodyFileName" : "body-2.5-weather-C2ILp.json",
+    "headers" : {
+      "Server" : "openresty",
+      "Date" : "Tue, 06 Jun 2017 10:00:39 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "X-Cache-Key" : "/data/2.5/weather?APPID=79c1dc77cee80c8688295e8e2f18ce4e&q=london,uk",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Credentials" : "true",
+      "Access-Control-Allow-Methods" : "GET, POST",
+      "Connection" : "Keep-Alive"
+    }
+  },
+  "uuid" : "f1fbd5f1-37ec-3082-8bfc-018a27d8a36e"
+}

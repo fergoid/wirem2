@@ -1,0 +1,25 @@
+{
+  "id" : "06a34b19-f924-3f7e-97c4-a7dd41a0326b",
+  "request" : {
+    "url" : "/country/get/iso2code/GB",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-iso2code-GB-IdtyD.json",
+    "headers" : {
+      "Date" : "Sun, 04 Jun 2017 11:08:04 GMT",
+      "Server" : "Apache-Coyote/1.1",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "POST, GET, OPTIONS, DELETE",
+      "Access-Control-Max-Age" : "3600",
+      "Access-Control-Allow-Headers" : "x-requested-with",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Vary" : "Accept-Encoding",
+      "Keep-Alive" : "timeout=15, max=99",
+      "Connection" : "Keep-Alive",
+      "Transfer-Encoding" : "chunked"
+    }
+  },
+  "uuid" : "06a34b19-f924-3f7e-97c4-a7dd41a0326b"
+}

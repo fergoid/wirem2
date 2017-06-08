@@ -1,0 +1,23 @@
+{
+  "id" : "939ca4ad-1809-38ef-ab5d-a0d4d892be99",
+  "request" : {
+    "url" : "/favicon.ico",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "bodyFileName" : "body-favicon.ico-0GyVq.txt",
+    "headers" : {
+      "Date" : "Tue, 06 Jun 2017 10:39:18 GMT",
+      "Server" : "Apache-Coyote/1.1",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "POST, GET, OPTIONS, DELETE",
+      "Access-Control-Max-Age" : "3600",
+      "Access-Control-Allow-Headers" : "x-requested-with",
+      "Content-Type" : "text/html;charset=utf-8",
+      "Content-Language" : "en",
+      "Connection" : "Keep-Alive"
+    }
+  },
+  "uuid" : "939ca4ad-1809-38ef-ab5d-a0d4d892be99"
+}

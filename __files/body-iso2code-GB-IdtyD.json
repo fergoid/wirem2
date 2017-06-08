@@ -1,0 +1,10 @@
+{
+  "RestResponse" : {
+    "messages" : [ "More webservices are available at http://www.groupkt.com/post/f2129b88/services.htm", "Country found matching code [GB]." ],
+    "result" : {
+      "name" : "United Kingdom of Great Britain and Northern Ireland",
+      "alpha2_code" : "GB",
+      "alpha3_code" : "GBR"
+    }
+  }
+}

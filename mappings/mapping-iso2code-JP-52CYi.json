@@ -1,0 +1,25 @@
+{
+  "id" : "73505684-136a-3a1b-9db7-9ecbba5e5833",
+  "request" : {
+    "url" : "/country/get/iso2code/JP",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-iso2code-JP-52CYi.json",
+    "headers" : {
+      "Date" : "Mon, 05 Jun 2017 13:11:48 GMT",
+      "Server" : "Apache-Coyote/1.1",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "POST, GET, OPTIONS, DELETE",
+      "Access-Control-Max-Age" : "3600",
+      "Access-Control-Allow-Headers" : "x-requested-with",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Vary" : "Accept-Encoding",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "Keep-Alive",
+      "Age" : "0"
+    }
+  },
+  "uuid" : "73505684-136a-3a1b-9db7-9ecbba5e5833"
+}

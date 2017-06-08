@@ -1,0 +1,25 @@
+{
+  "id" : "cd5bff2e-9809-3c1a-968a-a7e5a1504aa1",
+  "request" : {
+    "url" : "/country/get/iso2code/FR",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-iso2code-FR-PqWSs.json",
+    "headers" : {
+      "Date" : "Mon, 05 Jun 2017 14:02:40 GMT",
+      "Server" : "Apache-Coyote/1.1",
+      "Access-Control-Allow-Origin" : "*",
+      "Access-Control-Allow-Methods" : "POST, GET, OPTIONS, DELETE",
+      "Access-Control-Max-Age" : "3600",
+      "Access-Control-Allow-Headers" : "x-requested-with",
+      "Content-Type" : "application/json;charset=UTF-8",
+      "Vary" : "Accept-Encoding",
+      "Transfer-Encoding" : "chunked",
+      "Connection" : "Keep-Alive",
+      "Age" : "0"
+    }
+  },
+  "uuid" : "cd5bff2e-9809-3c1a-968a-a7e5a1504aa1"
+}

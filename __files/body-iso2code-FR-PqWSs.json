@@ -1,0 +1,10 @@
+{
+  "RestResponse" : {
+    "messages" : [ "More webservices are available at http://www.groupkt.com/post/f2129b88/services.htm", "Country found matching code [FR]." ],
+    "result" : {
+      "name" : "France",
+      "alpha2_code" : "FR",
+      "alpha3_code" : "FRA"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id" : "aaff1695-b0ce-306e-ace8-c74dfde64ade",
+  "request" : {
+    "url" : "/search.json?q=from:sirbonar&result_type=recent&rpp=1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 410,
+    "bodyFileName" : "body-search.json-5wgem.json",
+    "headers" : {
+      "content-type" : "application/json;charset=utf-8",
+      "date" : "Sun, 04 Jun 2017 10:53:19 GMT",
+      "server" : "tsa_f",
+      "set-cookie" : "guest_id=v1%3A149657359972252977; Domain=.twitter.com; Path=/; Expires=Tue, 04-Jun-2019 10:53:19 UTC",
+      "x-connection-hash" : "549bf1b6055ae97b54af576416f65334",
+      "x-response-time" : "106"
+    }
+  },
+  "uuid" : "aaff1695-b0ce-306e-ace8-c74dfde64ade"
+}
